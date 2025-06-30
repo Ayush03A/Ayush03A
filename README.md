@@ -21,9 +21,10 @@
 ### **Data Enthusiast | Data Engineering | Exploring AI/ML 🚀**  
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/be/7f/03/be7f0393653e0bbbd575526231e3353a.gif" width="25%" height="150%" align="right" />
+<img src="https://i.pinimg.com/originals/be/7f/03/be7f0393653e0bbbd575526231e3353a.gif" width="25%" height="120%" align="right" />
 
 ```
+
 💻 B.Tech Final Year student at DTU.
 📊 Passionate about Data Science, AI, and Machine Learning.
 🔍 Skilled in data cleaning, visualization, modeling, NLP & deep learning.
@@ -71,3 +72,6 @@
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+
+### **🎯 Always Learning, Always Building 🚀**
+Let's connect and build something amazing together! 🔥 
