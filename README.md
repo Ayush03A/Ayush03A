@@ -15,14 +15,13 @@
 
 
 ###
-
+# **👋 Hey, I'm Ayush Anand!**  
 <h3 align="left">💫 About Me:</h3>
 
-# **👋 Hey, I'm Ayush Anand!**  
 ### **Data Enthusiast | Data Engineering | Exploring AI/ML 🚀**  
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/8f/32/0f/8f320f960e17a0bf9bb73d6314fc72f1.gif" width="25%" height="150%" align="right" />
+<img src="https://i.pinimg.com/originals/be/7f/03/be7f0393653e0bbbd575526231e3353a.gif" width="25%" height="150%" align="right" />
 
 ```
 💻 B.Tech Final Year student at DTU.
@@ -38,7 +37,6 @@
 ```
 </div>
 
----
 
 ## **🚀 Tech Stack & Tools**
 ### **💡 Programming & Scripting**
@@ -57,7 +55,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4EAA25?style=for-the-badge&logo=gnu-Azure&logoColor=white)
 
 ### **🛠 Data Engineering & ML**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
