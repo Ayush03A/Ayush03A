@@ -21,8 +21,7 @@
 
 ### **Data Enthusiast | Data Engineering | Exploring AI/ML 🚀**  
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/be/7f/03/be7f0393653e0bbbd575526231e3353a.gif" width="25%" height="120%" align="right" />
+
 
 ```
 
