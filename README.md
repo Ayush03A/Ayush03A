@@ -1,3 +1,6 @@
+# **👋 Hey, I'm Ayush Anand!**  
+
+
 <div align="center">
   <img height="160" src="https://i.pinimg.com/originals/71/1e/ab/711eabdcb2a98390783f75007ff6895d.gif"  />
 </div>
@@ -15,8 +18,6 @@
 
 
 ###
-# **👋 Hey, I'm Ayush Anand!**  
-<h3 align="left">💫 About Me:</h3>
 
 ### **Data Enthusiast | Data Engineering | Exploring AI/ML 🚀**  
 
